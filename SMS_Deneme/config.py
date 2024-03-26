@@ -1,0 +1,4 @@
+sid = "ACfbc12e0266d302396b93224e391e7b29"
+token = "5ee99279d109c2f1c40b2acd32d527f9"
+Twillo_phone = "+12188455320"
+victim = "+905338175581"
